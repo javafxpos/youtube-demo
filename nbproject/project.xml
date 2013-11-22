@@ -13,7 +13,11 @@
             </extension>
         </buildExtensions>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>YoutubeDemo</name>
+=======
+            <name>JavaFXApplication39</name>
+>>>>>>> d0c7945e6bc94ffad3cee9ad6fad783774c48fc3
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
